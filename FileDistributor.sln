@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tfs.FileDistributor.Forms", "FileDistributor.Forms\Tfs.FileDistributor.Forms.csproj", "{9BA5F1B5-F457-4E5E-B19D-ECA1333C0958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tfs.FileDistributor", "FileDistributor\Tfs.FileDistributor.csproj", "{819B40EA-0E97-4A26-B32B-9BD90BBFDF57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA5F1B5-F457-4E5E-B19D-ECA1333C0958}.Debug|x86.ActiveCfg = Debug|x86
+		{9BA5F1B5-F457-4E5E-B19D-ECA1333C0958}.Debug|x86.Build.0 = Debug|x86
+		{9BA5F1B5-F457-4E5E-B19D-ECA1333C0958}.Release|x86.ActiveCfg = Release|x86
+		{9BA5F1B5-F457-4E5E-B19D-ECA1333C0958}.Release|x86.Build.0 = Release|x86
+		{819B40EA-0E97-4A26-B32B-9BD90BBFDF57}.Debug|x86.ActiveCfg = Debug|x86
+		{819B40EA-0E97-4A26-B32B-9BD90BBFDF57}.Debug|x86.Build.0 = Debug|x86
+		{819B40EA-0E97-4A26-B32B-9BD90BBFDF57}.Release|x86.ActiveCfg = Release|x86
+		{819B40EA-0E97-4A26-B32B-9BD90BBFDF57}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
